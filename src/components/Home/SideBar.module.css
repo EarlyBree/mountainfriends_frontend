@@ -1,0 +1,32 @@
+.sidebar {
+  background-color: #e8c07d;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  border: 1px solid #3c4d30;
+  height: 70vh;
+  width: 20%;
+  text-align: left;
+}
+
+.headtext {
+  margin-left: 3rem;
+}
+
+ul {
+  list-style: none;
+}
+
+.notactivelink {
+  font-size: 1.3rem;
+  padding: 10px;
+  display: block;
+  width: 160px;
+  border: 1px solid black;
+  border-radius: 8px;
+  margin: 5px;
+  background-color: #e8c07d;
+  cursor: pointer;
+}
+
+.activelink {
+  background-color: #bc9a60;
+}

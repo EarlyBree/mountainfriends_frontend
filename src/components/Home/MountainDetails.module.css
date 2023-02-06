@@ -1,0 +1,77 @@
+.details {
+  height: 80%;
+  border: 2px black solid;
+  background-color: #e8c07d;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  scrollbar-color: black #e8c07d;
+}
+
+.details h2 {
+  font-size: 1.9rem;
+}
+
+.details p {
+  font-size: 1.5rem;
+}
+
+.detailsbutton1 {
+  float: left;
+  width: 20%;
+  margin-left: 14rem;
+}
+
+.detailsbutton2 {
+  float: right;
+  width: 20%;
+  margin-right: 14rem;
+  margin-bottom: 2rem;
+}
+
+.mymodal {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+}
+
+.myh1 {
+  text-align: center;
+}
+
+.myp {
+  text-align: center;
+  font-size: 1.4rem;
+}
+
+.myinput {
+  margin: auto;
+  font: inherit;
+  padding: 0.5rem;
+  display: block;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  width: 20rem;
+  max-width: 100%;
+  text-align: center;
+}
+
+.buttondiv {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1rem;
+}
+
+.peoplediv {
+  margin-top: 2rem;
+  display: block;
+}
+
+.peoplediv h2 {
+  font-size: 1.6rem;
+}
+
+.peoplediv li {
+  display: flex;
+  justify-content: center;
+  font-size: 1.3rem;
+}

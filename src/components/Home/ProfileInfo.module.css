@@ -1,0 +1,30 @@
+.profileinfo {
+  height: 70vh;
+  background-color: #e8c07d;
+  width: 80%;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  border: 1px solid #3c4d30;
+}
+
+.profilecard {
+  border: 1px solid black;
+  border-radius: 10px;
+  height: 50vh;
+  width: 40%;
+  font-size: 1.5rem;
+  padding-top: 1.5rem;
+  margin: auto;
+  animation: profilinfo-appear 1s ease-out forwards;
+}
+
+@keyframes profilinfo-appear {
+  from {
+    opacity: 0;
+    transform: translateX(7rem);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}

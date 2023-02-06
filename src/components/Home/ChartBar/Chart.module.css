@@ -1,0 +1,12 @@
+.chart {
+  padding: 1rem;
+  border-radius: 12px;
+  background-color: #e8c07d;
+  border: black 1px solid;
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+  height: 10rem;
+  float: right;
+  width: 96.6%;
+}
