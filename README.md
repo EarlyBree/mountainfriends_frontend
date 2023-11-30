@@ -1,6 +1,7 @@
 # mountainfriends_frontend
 
-Mountainfriends is ein kleines Project bei dem ich React als Frontend und Node als Backend verwendet habe.
+Mountainfriends is ein Projekt bei dem ich React als Frontend und Node als Backend verwendet habe.
+Es ist eine Art kleines Social Network für Berg begeisterte. :) 
 
 Als Nutzer kann man sich registrieren/anmelden. 
 Weitere Funktionen: - andere Nutzer als Freunde hinzufügen/löschen
